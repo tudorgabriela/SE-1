@@ -50,7 +50,7 @@ Grupa: 1221F
 |15)Nanu Maria| https://github.com/mariairina/ALF|https://github.com/mariairina/SE|
 |16)Popovici Fabian| https://github.com/fabianpopovici/ALF|https://github.com/fabianpopovici/SdE|
 |17) Tebibi Fatma	| http://github.com/fatmatebibi||
-|18) Tudor Adelina- 1241f| http://github.com/AdelinaTudor||
+|18) Tudor Adelina- 1241f|| http://github.com/AdelinaTudor/SE|
 
 Repository mini Proiecte TD SdE
 =====
@@ -61,7 +61,7 @@ Repository mini Proiecte TD SdE
 |<ol><li>Duta Crina</li><li>Ionita Adrian</li><li>Brezoaie Robert</li><li>Danu Cosmin</li></ol>| Sudoku/Generateur de numbres aleatoires en utilisant services web ??? | |
 |<ol><li>Bratu Madalina</li><li>Ovejan Anamaria</li><li>Albu Dragos</li><li>Ursachi Tudor</li></ol> |Generation et resolution d'un labyrinthe avec fils d'execution???||
 |<ol><li>Grigorescu Ioana</li><li>Avram Andrei</li><li>Varasteanu Marius</li></ol>|Hidato ???||
-|<ol><li>Tudor Georgiana</li><li>Ilie Iulia</li><li>Tudor Adelina</li><li>Mitrica Gina</li><li>Guran Carmen</li></ol>|Facebook like counter???||
+|<ol><li>Tudor Georgiana</li><li>Ilie Iulia</li></ol>|Futoshiki| https://github.com/tudorgabriela/Futoshiki |
 |<ol><li>Radulescu Alexandra</li><li>Colea Alexandra</li><li>Baciu Alina</li><li>Yousfi Amine</li></ol>|Generateur de numbres aleatoires en utilisant services web ???||
 |<ol><li>Cioiu Ioana Dumitrina</li><li>Fainaru Ioana Gabriela</li><li>Jugarean Carmen</li></ol>|Simulateur de trafic aéroportuaire||
 |<ol><li>Guran Carmen</li><li>Mitrica Gina Maria</li><li>Tudor Adelina</li></ol>|Machine de Turing||
